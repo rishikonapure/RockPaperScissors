@@ -7,7 +7,8 @@ Al webapp to play Rock Paper Scissors
 
 python -m http.server 8013
 
-4. Play
+4. Open Browser an type at URL : localhost:8013
+5. Play
 
 
     Thanks to:
